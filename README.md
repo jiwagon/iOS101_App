@@ -56,7 +56,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 #### Idea #2: Job Search/Recruitment tracker app
 - An app with pre-made and self-customized templates to save information during job search process. Organize and compile a list of employers to keep track of. All the information can also easily translate into a more reader file on larger device. Did some UX research on this before and did some simple figma mockups but did not get to develop into a functional prototype.
 
-##### Might have other ideas when inspiratio hits......
+##### Might have other ideas when inspiration hits......
 
 
 ## Notes
