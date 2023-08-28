@@ -51,10 +51,10 @@ GIF created with [Kap](https://getkap.co/) for macOS
 ### App idea I would like to build
 
 #### Idea #1: GoFundMe but for item donation 
-- A communal app where verified groups and organizations can post what they need and other netizens can purchase those items and have them delivered to those in need. No money donation. 
+- A communal app where verified groups and organizations can post what they need and other netizens can purchase those items and have them delivered to those in need. No money donation. The verification process is inspired by AirBnb. "Wishlist" idea is similar to Amazon. Saw that sometimes underresources teachers direct messaged celebrities to donate education materials, and thought that what if there is a platform dedicated for that and allow a bigger donors pool to help fulfill the need. People cannot request anything. They have to propose and pitch for an item if the item is not allowed for donation on the platform. 
 
 #### Idea #2: Job Search/Recruitment tracker app
-- An app with pre-made and self-customized templates to save information during job search process. Organize and compile a list of employers to keep track of. All the information can also easily translate into a more reader file on larger device. Did some UX research on this before and did some simple figma mockups but did not get to develop into a functional prototype.
+- An app with pre-made and self-customized templates to save information (career websites, qr code, recruiter info, etc.) during job search process. Organize and compile a list of employers to keep track of. All the information can also easily translate into a more readable file on larger device. Did some UX research on this and made some simple figma mockups before but did not get to develop into a functional prototype.
 
 ##### Might have other ideas when inspiration hits......
 
