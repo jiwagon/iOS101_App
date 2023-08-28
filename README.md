@@ -5,7 +5,7 @@ Submitted by: Ji Zhang
 The Profile is an app that displays a profile card with appropriate information for users to introduce themselves in public online spaces.
 It also allows users to change the app's background color for a more fun interactive experience on this simple app. 
 
-Time spent: 5 hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
