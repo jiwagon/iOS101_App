@@ -27,20 +27,36 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ### My favorite apps (Order does not matter)
 
-Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-Example App: Instagram
-Changing the background color of the messages screen
-Deleting old messages
+#### 1. Duolingo
+Fun learning exercises with a variety of engaging interactions, eg. Match Madness - match the same words in two different languages
+Enticing sound effects for different statuses and buttons
+Giving empowering reactions to my friends' learning journey on the social feed
 
+#### 2. Smartify
+Art scanner for easy search
+Favorite and save my favorite arts, artists, exhibitions, or musuems in an organized way
+Easily accessible audio guides of an exhibition displayed in the order intended by the curator(s)
 
-1. Duolingo
-2. Smartify
-3. Spotify
-4. Uber
+#### 3. Spotify
+Collaborate with my friends to make a playlist together
+Having in-sync lyrics with the playing music 
+Putting multiple playlists in a folder 
+
+#### 4. Uber
+Adding more than one stop for a ride journey 
+Adding another rider to allow users to book an uber for another person
+Easily accessible safety emergency button during a ride
+
 
 ### App idea I would like to build
 
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
+#### Idea #1: GoFundMe but for item donation 
+A communal app where verified groups and organizations can post what they need and other netizens can purchase those items and have them delivered to those in need. No money donation. 
+
+#### Idea #2: Job Search/Recruitment tracker app
+An app with pre-made and self-customized templates to save information during job search process. Organize and compile a list of employers to keep track of. All the information can also easily translate into a more reader file on larger device. Did some UX research on this before and did some simple figma mockups but did not get to develop into a functional prototype.
+
+##### Might have other ideas when inspiratio hits......
 
 
 ## Notes
