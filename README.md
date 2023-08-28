@@ -25,7 +25,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ## App Brainstorming
 
-# My favorite apps (Order does not matter)
+### My favorite apps (Order does not matter)
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 Example App: Instagram
@@ -38,7 +38,7 @@ Deleting old messages
 3. Spotify
 4. Uber
 
-# App idea I would like to build
+### App idea I would like to build
 
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
 
