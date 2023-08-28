@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jiwagon/iOS101_App/blob/2b1af9484f0019f1423d9f13a626f731742d4fc9/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202023-08-27%20at%2019.22.19.gif' title='Video Walkthrough' width='50%' height ='50%' alt='Video Walkthrough' />
+<img src='https://github.com/jiwagon/iOS101_App/blob/2b1af9484f0019f1423d9f13a626f731742d4fc9/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202023-08-27%20at%2019.22.19.gif' title='Video Walkthrough' width='30%' height ='30%' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
