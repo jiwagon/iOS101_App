@@ -18,11 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im5.ezgif.com/tmp/ezgif-5-7d43a8b9f9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///private/var/folders/y5/zk5y6_692vsc1mdghws4wm500000gn/T/c3ae7630caa6ee64c3f2b1a50b974279/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202023-08-27%20at%2019.22.19.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://github.com/jiwagon/iOS101_App/assets/90239677/a58a8c05-643d-429b-a6c8-19fd0df06472
-
-
+![ezgif-4-a978a8ed7f](https://github.com/jiwagon/iOS101_App/assets/90239677/0324a5ab-68a8-478b-94da-559852d9589f)
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
