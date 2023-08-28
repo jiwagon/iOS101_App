@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///private/var/folders/y5/zk5y6_692vsc1mdghws4wm500000gn/T/b62539f4772aca12606a226f87895d37/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202023-08-27%20at%2019.22.19.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im5.ezgif.com/tmp/ezgif-5-7d43a8b9f9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
