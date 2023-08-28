@@ -20,6 +20,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://im5.ezgif.com/tmp/ezgif-5-7d43a8b9f9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://github.com/jiwagon/iOS101_App/assets/90239677/a58a8c05-643d-429b-a6c8-19fd0df06472
+
+
+
 GIF created with [Kap](https://getkap.co/) for macOS
 
 
